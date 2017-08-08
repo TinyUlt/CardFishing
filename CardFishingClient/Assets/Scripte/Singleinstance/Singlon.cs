@@ -36,5 +36,4 @@ public abstract class MonoSingletion<T> : MonoBehaviour where T : MonoBehaviour 
 			return m_instance;
 		}  
 	}  
-
 }

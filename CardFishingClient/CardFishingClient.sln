@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFishingClient.Plugins", "CardFishingClient.Plugins.csproj", "{6FECF823-59FE-507E-06DE-F5D3FC9B753C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFishingClient", "CardFishingClient.csproj", "{FC6A3E18-D1E2-0B49-8D9B-52FEFFBF0D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFishingClient.Editor", "CardFishingClient.Editor.csproj", "{07F4AD32-ADF9-FF1E-E824-866CCE8E5E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FECF823-59FE-507E-06DE-F5D3FC9B753C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FECF823-59FE-507E-06DE-F5D3FC9B753C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FECF823-59FE-507E-06DE-F5D3FC9B753C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FECF823-59FE-507E-06DE-F5D3FC9B753C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6A3E18-D1E2-0B49-8D9B-52FEFFBF0D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6A3E18-D1E2-0B49-8D9B-52FEFFBF0D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6A3E18-D1E2-0B49-8D9B-52FEFFBF0D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6A3E18-D1E2-0B49-8D9B-52FEFFBF0D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F4AD32-ADF9-FF1E-E824-866CCE8E5E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F4AD32-ADF9-FF1E-E824-866CCE8E5E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F4AD32-ADF9-FF1E-E824-866CCE8E5E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F4AD32-ADF9-FF1E-E824-866CCE8E5E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
